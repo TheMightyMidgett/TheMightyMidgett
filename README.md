@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Wm. Maxton Midgett
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-I am a lifelong Entrepreneur and a Proprietor. I strive in Life to live by these Core Values; Integrity, Accountability, Reliability.
+- 👀 I’m interested in nothing.
+- 🌱 I’m currently learning life.
+- 💞️ I’m looking to collaborate on women, children, political bureaucracies.
+- 📫 How to reach me, you don't.
+ I am a lifelong Entrepreneur and a Proprietor. I strive in Life to live by these Core Values; Integrity, Accountability, Reliability.
 <!---
-TheMightyMidgett/TheMightyMidgett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+TheMightyMidgett/
+Nothing special to be seen here.
+special ed.
 --->
